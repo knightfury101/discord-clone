@@ -10,6 +10,7 @@ Introducing Discord Clone, a groundbreaking platform harnessing the prowess of N
 
 - Real-time messaging with Socket.io. 
 - Upload files via Uploadthing.
+- Emoji bar to express your emotions.
 - Delete and edit messages in real-time.
 - Create Text, Audio, and video channels.
 - Fully responsive with Tailwind and ShadcnUI.
